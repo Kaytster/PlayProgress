@@ -1,0 +1,33 @@
+@import "Site-Colours.css";
+
+body{
+    background-color: var(--eerieblack);
+}
+
+h1 {
+    color: var(--amethyst);
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    text-align: center;
+}
+
+p {
+    color: var(--amethyst);
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-size: 22px;
+    text-align: center;
+}
+
+form {
+    background-color:whitesmoke;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 0px var(--wisteria);
+}
+
+.container {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
