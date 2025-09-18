@@ -1,0 +1,16 @@
+@import "Site-Colours.css";
+
+body{
+    background-color: var(--eerieblack);
+}
+
+.navbar {
+    background-color: var(--amethyst);
+}
+.navbar-brand {
+    color: var(--eerieblack);
+}
+
+.nav-item, .nav-link:active {
+color: chartreuse;
+}
