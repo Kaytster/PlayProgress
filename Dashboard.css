@@ -9,8 +9,17 @@ body{
 }
 .navbar-brand {
     color: var(--eerieblack);
+    font-family: "M PLUS Rounded 1c", sans-serif;
 }
 
+.nav-item {
+    color: var(--eerieblack);
+    font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
+.nav-item, .nav-link {
+color: var(--eerieblack);
+}
 .nav-item, .nav-link:active {
 color: chartreuse;
 }
