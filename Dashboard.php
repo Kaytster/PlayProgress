@@ -33,7 +33,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#" style="color:red;">
+                        <a class="nav-link active" aria-current="page" href="#">
                             <img src="Images\LibraryOutline.png" alt="Library" width="30" height="30" class="d-inline-block align-text-top">
                             Library
                         </a>
@@ -66,7 +66,7 @@
 
                 <form class="d-flex">
                      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success" type="submit">Search</button>
+                    <button class="button" type="submit">Search</button>
                 </form>
             </div>
         </div>

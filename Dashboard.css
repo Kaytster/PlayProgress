@@ -23,3 +23,16 @@ color: var(--eerieblack);
 .nav-item, .nav-link:active {
 color: chartreuse;
 }
+
+.button {
+    color: var(--indigo);
+    background-color: transparent;
+    border: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: var(--indigo);
+    margin-left: 10px;
+}
+.button:hover {
+    background-color: var(--indigo);
+}
